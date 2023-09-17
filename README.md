@@ -10,6 +10,7 @@ I am currently enrolled in the School of Code Bootcamp, where I am honing my cod
 
 Here are some of my top GitHub repositories where I showcase my coding skills and projects:
 
+
 | Repository | Description | Tech Stack |
 |------------|-------------|
 | [Repo 1](https://github.com/JTateCC/CoomoDise) | A Commodity Price Tracker  | Python, Django, Web Scraping
