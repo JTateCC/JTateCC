@@ -14,7 +14,7 @@ Here are some of my top GitHub repositories where I showcase my coding skills an
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
 | [Repo 1](https://github.com/JTateCC/CoomoDise) | A Commodity Price Tracker  | Python, Django, Web Scraping
-| [Repo 2](https://github.com/JTateCC/EngInventoryManager) | A Simple inventory management system for a small Engineering Company  | Python, Django
+| [Repo 2](https://github.com/JTateCC/productivityHub) | A Simple Productivity Tool | Javascript, Fetch
 | [Repo 3](https://github.com/JTateCC/PartNumberRegister) | A Part Number Database that allows building Bill of Materials for Assemblies | Python , Django
 
 Feel free to explore these repositories to see some of the cool projects I've been working on!
