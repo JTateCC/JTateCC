@@ -3,8 +3,9 @@
 
 ## About Me
 
-A former CAD engineer who is on an exciting journey to become a full-stack developer with a strong interest in Python and backend development. 
-I am currently enrolled in the School of Code Bootcamp, where I am honing my coding skills and building exciting projects in a team based, agile environment.
+I am a passionate developer with expertise in C#, Python, and SQL. My professional journey revolves around crafting innovative software solutions centered on data and databases.  
+I specialize in seamless data migrations and harnessing the power of data to drive business insights. 
+Explore my portfolio, projects, and insights into the world of data as I continue to create, innovate, and contribute to the ever-evolving realm of data-driven technology."
 
 ## Top Repositories
 
@@ -13,9 +14,8 @@ Here are some of my top GitHub repositories where I showcase my coding skills an
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [Repo 1](https://github.com/JTateCC/CoomoDise) | A Commodity Price Tracker  | Python, Django, Web Scraping
-| [Repo 2](https://github.com/JTateCC/productivityHub) | A Simple Productivity Tool | Javascript, Fetch
-| [Repo 3](https://github.com/JTateCC/PartNumberRegister) | A Part Number Database that allows building Bill of Materials for Assemblies | Python , Django
+| [Repo 1](https://github.com/JTateCC/productivityHub) | A Simple Productivity Tool | Javascript, Fetch
+| [Repo 2](https://github.com/JTateCC/PartNumberRegister) | A Part Number Database that allows building Bill of Materials for Assemblies | Python , Django
 
 Feel free to explore these repositories to see some of the cool projects I've been working on!
 
