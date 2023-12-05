@@ -4,9 +4,8 @@
 ## About Me
 
 I am a passionate developer with expertise in C#, Python, and SQL. My fascination with programming has exposed me to many applications. 
-My personal interests are around crafting innovative software and websites centered on data and databases.  
-I believe in harnessing the power of data to drive business insights. 
-Explore my portfolio, projects and contributions as I continue to create, innovate, and contribute to the ever-evolving realm of data-driven technology."
+My personal interests are around crafting innovative software, websites and harnessing the power of data to drive business insights. 
+Explore my portfolio, projects and contributions as I continue to create, innovate, and contribute to the ever-evolving realm of data-driven technology.
 
 ## Top Repositories
 
